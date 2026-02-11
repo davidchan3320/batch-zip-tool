@@ -1,0 +1,18 @@
+# Optional dependencies for enhanced features:
+
+# For drag-and-drop functionality (recommended):
+tkinterdnd2
+
+# Built-in dependencies (no installation needed):
+# - tkinter (built-in GUI library)
+# - zipfile (built-in for ZIP operations)
+# - pathlib (built-in for path operations)
+# - threading (built-in for multi-threading)
+# - shutil (built-in for file operations)
+# - subprocess (built-in for external commands)
+
+# External tools (optional):
+# - 7-Zip: For better compression (install separately)
+#   macOS: brew install p7zip
+#   Windows: Download from https://www.7-zip.org/
+#   Linux: sudo apt-get install p7zip-full

@@ -1,0 +1,10 @@
+# Build Requirements for Creating Executable
+
+# Required for building
+pyinstaller>=5.0.0
+
+# Application dependencies
+tkinterdnd2>=0.3.0
+
+# Optional: For better compression
+# upx  # Requires separate installation of UPX packer
